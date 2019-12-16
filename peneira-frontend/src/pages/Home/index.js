@@ -14,10 +14,6 @@ export default function Admin(props) {
           Nesta aba você poderá procurar por peneiras de outros usuários, bem
           como fazer o seu cadastro.
         </p>
-        <h2>Ver Minhas Peneiras</h2>
-        <p>
-          Nessa guia você poderá ver as peneiras nas quais você teve interesse.
-        </p>
       </ContainerTexto>
     </Container>
   );
