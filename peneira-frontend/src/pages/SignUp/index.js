@@ -88,16 +88,6 @@ export default function SignUp({ history }) {
           />
         </InputContainer>
 
-        {/* <InputContainer>
-          <input
-            id="isAdmin"
-            type="checkbox"
-            value={user.isAdmin}
-            onChange={handleInputCheckChange}
-          />
-          <label htmlFor="isAdmin">Administrador</label>
-        </InputContainer> */}
-
         <ContainerLinks>
           <Link to="/signin">Já tem uma conta? Clique aqui</Link>
         </ContainerLinks>
