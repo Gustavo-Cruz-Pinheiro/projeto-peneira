@@ -40,6 +40,8 @@ $ npm i
 # Execute o arquivo comando para executar o projeto
 $ npm run dev
 
+# O seu projeto estará rodando no localhost:3000
+
 ```
 
 ## 👨🏽‍💻 Autor
