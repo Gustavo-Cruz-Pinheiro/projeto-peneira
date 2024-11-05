@@ -2,7 +2,7 @@
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
-O objetivo do projeto foi desenvolver um site os clubes de futebol organizarem/divulgarem seleções de jogadores e para os jogadores se inscreverem nas peneiras.
+O objetivo do projeto foi desenvolver um site os clubes de futebol organizarem/divulgarem seleções de jogadores e também para os jogadores se inscreverem nas peneiras.
 
 ![Demonstração da Aplicação](./peneira-frontend/src/assets/background-login.png)
 
